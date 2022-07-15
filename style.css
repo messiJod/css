@@ -4,6 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   background: #000;
+  margin: 0;
 }
 #app {
   position: relative;
